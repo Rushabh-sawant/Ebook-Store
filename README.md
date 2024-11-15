@@ -2,7 +2,7 @@
 
 <p>PBL Project</p>
 
-<p>Contributors:\n
+<p>Contributors:
   1. Utkarsh Gharge
   2. Rushabh Sawant
   3. Rajvardhansingh Rajput
